@@ -30,6 +30,13 @@ body {
   font-size: 14px;
 }
 
+.custom-line {
+  border: none;
+  height: 3px;
+  background-color: rgba(255, 255, 255, 0.2); /* semi-transparent white */
+  width: 100%; /* or any desired width like 80%, 1000px, etc. */
+}
+
 /* Basic */
 
 body {
