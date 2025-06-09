@@ -21,6 +21,14 @@ body {
     width: 100%;
 }
 
+.skills-tags span {
+  background: #6e2958;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 15px;
+  display: inline-block;
+  font-size: 14px;
+}
 
 /* Basic */
 
